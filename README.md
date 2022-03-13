@@ -1,5 +1,6 @@
 [![LinkedIn](https://user-images.githubusercontent.com/95504963/158077464-634cc024-9ca3-4503-9721-f5e21987a028.png)](https://www.linkedin.com/in/nikos-bounatsos)
-[![freecodecamp](https://user-images.githubusercontent.com/95504963/158078581-543aab80-b7b9-4ff4-a21f-4ea3b450005b.png)](https://www.freecodecamp.org/niko_boun)
+[![freeCodeCamp](https://user-images.githubusercontent.com/95504963/158078581-543aab80-b7b9-4ff4-a21f-4ea3b450005b.png)](https://www.freecodecamp.org/niko_boun)
+[![Portfolio](https://user-images.githubusercontent.com/95504963/158079248-933a4663-4fe4-4bf1-9d4b-dedf04920599.png)](https://github.com/Nick-Bounatsos/Data-Analysis-Portfolio)
 [![Codewars](https://user-images.githubusercontent.com/95504963/158077599-96389e08-7eb4-4e31-a3e7-871ef6bd741a.png)](https://www.codewars.com/users/Nick-Bounatsos)
 [![Gmail](https://user-images.githubusercontent.com/95504963/158077560-5592dd1d-b417-4231-bd15-02239eeb4a48.png)](nikos.bounatsos@gmail.com)
 
