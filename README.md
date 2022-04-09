@@ -9,11 +9,12 @@ Interests:
 - Python
 - Data Science
 - Machine Learning
+- Linux
 
 ___
 | Technical Skills | Working on | Will work on |
 | :--: | :--: | :--: |
-| ![Python](https://user-images.githubusercontent.com/95504963/158077657-19e0e9c5-5db8-436b-98aa-312e759fd8cd.png) | ![TensorFlow](https://user-images.githubusercontent.com/95504963/158077901-01d58f4f-bdc6-47cd-a8bd-863d320fa168.png) | ![MongoDB](https://user-images.githubusercontent.com/95504963/158078333-b363bfb8-8a5d-49c4-8f0a-6667695bc875.png) |
-| ![MySQL](https://user-images.githubusercontent.com/95504963/158077673-406c9981-47ad-45a4-a8c4-759f032bb1a8.png) |  |  |
-| ![Excel](https://user-images.githubusercontent.com/95504963/158078044-2d64e1ad-3a60-4040-9183-b683639399e3.png) |  |  |
-| ![Ubuntu](https://user-images.githubusercontent.com/95504963/158078112-4010f44b-421f-430e-a805-71a9d0120e5a.png)|  |  |
+| ![Python](https://user-images.githubusercontent.com/95504963/158077657-19e0e9c5-5db8-436b-98aa-312e759fd8cd.png "Python") | ![TensorFlow](https://user-images.githubusercontent.com/95504963/158077901-01d58f4f-bdc6-47cd-a8bd-863d320fa168.png "TensorFlow") | ![MongoDB](https://user-images.githubusercontent.com/95504963/158078333-b363bfb8-8a5d-49c4-8f0a-6667695bc875.png "MongoDB") |
+| ![MySQL](https://user-images.githubusercontent.com/95504963/158077673-406c9981-47ad-45a4-a8c4-759f032bb1a8.png "MySQL") | ![Tableau](https://user-images.githubusercontent.com/95504963/162568737-3b575b36-4d8f-4162-b9c9-4602d3f8e8c0.png "Tableau") |  |
+| ![Excel](https://user-images.githubusercontent.com/95504963/158078044-2d64e1ad-3a60-4040-9183-b683639399e3.png "Excel") |  |  |
+| ![Ubuntu](https://user-images.githubusercontent.com/95504963/158078112-4010f44b-421f-430e-a805-71a9d0120e5a.png "Ubuntu")|  |  |
