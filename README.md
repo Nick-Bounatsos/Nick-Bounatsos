@@ -20,3 +20,11 @@ ___
 | ![Excel](https://user-images.githubusercontent.com/95504963/158078044-2d64e1ad-3a60-4040-9183-b683639399e3.png "MS Excel") |  |  |
 | ![Ubuntu](https://user-images.githubusercontent.com/95504963/158078112-4010f44b-421f-430e-a805-71a9d0120e5a.png "Ubuntu") ![Windows](https://user-images.githubusercontent.com/95504963/162569409-66117766-4e18-4642-9528-d908f3a5594b.png "Windows") |  |  |
 | ![Bash](https://user-images.githubusercontent.com/95504963/162569121-368bb887-bb42-4156-b887-f1b7de794bfb.png "Bash") |  |  |
+
+Certifications:  
+[Data Analysis with Python](https://www.freecodecamp.org/certification/niko_boun/data-analysis-with-python-v7), [freecodecamp.org](https://www.freecodecamp.org/)  
+[Scientific Computing with Python](https://www.freecodecamp.org/certification/niko_boun/scientific-computing-with-python-v7), [freecodecamp.org](https://www.freecodecamp.org/)  
+
+Currently studying for:  
+[Data Science with Python](https://elearningekpa.gr/courses/data-science-with-python), [elearningekpa.gr](https://elearningekpa.gr/)  
+[Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/), [freecodecamp.org](https://www.freecodecamp.org/)
