@@ -22,9 +22,9 @@ ___
 | ![Bash](https://user-images.githubusercontent.com/95504963/162569121-368bb887-bb42-4156-b887-f1b7de794bfb.png "Bash") |  |  |
 
 Certifications:  
+[Machine Learning with Python](https://www.freecodecamp.org/certification/niko_boun/machine-learning-with-python-v7), [freecodecamp.org](https://www.freecodecamp.org/)  
 [Data Analysis with Python](https://www.freecodecamp.org/certification/niko_boun/data-analysis-with-python-v7), [freecodecamp.org](https://www.freecodecamp.org/)  
 [Scientific Computing with Python](https://www.freecodecamp.org/certification/niko_boun/scientific-computing-with-python-v7), [freecodecamp.org](https://www.freecodecamp.org/)  
 
 Currently studying for:  
 [Data Science with Python](https://elearningekpa.gr/courses/data-science-with-python), [elearningekpa.gr](https://elearningekpa.gr/)  
-[Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/), [freecodecamp.org](https://www.freecodecamp.org/)
